@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+form {
+  text-align: center;
+}
+
+a {
+  color: rgb(236, 147, 29);
+  color: aqua;
+}
+
+.btn btn-outline-info btn-lg {
+  color: white;
+}
+
+#output {
+  font-size: 1.9em;
+  border: 2px solid brown;
+  text-shadow: cornflowerblue;
+}
+form {
+
+  background-image: url(https://www.pexels.com/photo/dolphins-in-water-2922672/);
+}
