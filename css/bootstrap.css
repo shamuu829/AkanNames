@@ -110,16 +110,4 @@ a {
 a:hover {
   text-decoration: underline;
   color: #0056b3;
-
-}
-.custom-checkbox .custom-control-input:checked ~ .custom-control-label::after {
-  background-image: url(//IMAGES/pexels-photo-1996333.jpeg);
-}
-.custom-checkbox .custom-control-input:indeterminate ~ .custom-control-label::before{
-  border-color: violet;
-  background-color: violet;
-
-}
-.custom-checkbox .custom-control-input:indeterminate ~ .custom-control-label::after{
-  background-image:url(https://www.pexels.com/photo/dolphins-in-water-2922672/)
 }
