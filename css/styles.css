@@ -25,4 +25,9 @@ a {
 form {
 
   background-image: url(https://www.pexels.com/photo/dolphins-in-water-2922672/);
+
 }
+  form {
+    font-style: oblique;
+  }
+  
