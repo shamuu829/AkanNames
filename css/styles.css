@@ -14,13 +14,14 @@ a {
 }
 
 .btn btn-outline-info btn-lg {
-  color: white;
+  color: blue;
 }
 
 #output {
   font-size: 1.9em;
   border: 2px solid brown;
   text-shadow: cornflowerblue;
+  font-style: italic;
 }
 form {
 
@@ -29,5 +30,10 @@ form {
 }
   form {
     font-style: oblique;
+    font-weight: bolder;
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    
   }
   
