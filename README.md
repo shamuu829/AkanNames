@@ -1,5 +1,7 @@
-# project name: akan naming culture
-## project description: this is website that inspired ghanians,just by adding your birthday date the site calculates the day of the week you were born  and then outputs their akan name
+# project name: 
+Akan naming culture
+## project description: 
+this is website that inspired ghanians,just by adding your birthday date the site calculates the day of the week you were born  and then outputs their akan name
 
  ### technologies used
  html
@@ -17,6 +19,3 @@ incase you have feedback for me
 shamsodarwish@gmail.com
 0720653156
 
-#### add screensot
-
-![Alt text](/relative/path/to/ IMAGES/Screenshot from 2021-02-19 01-40-36.png/raw=true "Optional Title")
